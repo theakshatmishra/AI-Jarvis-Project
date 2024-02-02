@@ -3,5 +3,5 @@ An AI assistant that uses artificial intelligence to understand and execute voic
 
 
 # Authors:
-# Aditi Mishra
-# Akshat Mishra
+Aditi Mishra And
+Akshat Mishra
